@@ -14,7 +14,7 @@
         android:layout_width="166dp"
         android:layout_height="42dp"
         android:ems="10"
-        android:hint="eg. 0105CS141019"
+        android:hint="eg. 0105IT141019"
         android:inputType="text"
         app:layout_constraintRight_toLeftOf="@+id/name_entry"
         app:layout_constraintLeft_toLeftOf="parent"
